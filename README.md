@@ -2,12 +2,12 @@
 
 Um script Python para organizar arquivos baixados em pastas categorizadas.
 
-**Uso**
+## Uso
 
-1. Edite o script para especificar o caminho da pasta que você deseja organizar. Por padrão, o script está configurado para organizar a pasta `C:/Users/User/Downloads`.
-2. Execute o script usando Python (por exemplo, `python downloads_organizer.py`).
+* Edite o script para especificar o caminho da pasta que você deseja organizar. Por padrão, o script está configurado para organizar a pasta `C:/Users/User/Downloads`.
+* Execute o script usando Python (por exemplo, `python downloads_organizer.py`).
 
-**Pastas Categorizadas**
+## Pastas
 
 O script cria as seguintes pastas categorizadas:
 
@@ -20,6 +20,6 @@ O script cria as seguintes pastas categorizadas:
 
 Para adicionar novas pastas e/ou tipos de arquivos, basta inserir um novo dicionário no código.
 
-**Requisitos**
+## Requisitos
 
 * Python 3.x
